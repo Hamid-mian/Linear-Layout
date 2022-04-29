@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Check Box linear layout</string>
+    <string name="CheckedBoxDone">Done</string>
+    <string name="CheckedBoxPending">Pending</string>
+    <string name="CheckedBoxRead">Read</string>
+    <string name="simpleButton">Simple Button</string>
+</resources>
